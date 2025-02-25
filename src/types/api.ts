@@ -1,0 +1,1 @@
+// # Kiểu dữ liệu API response

@@ -1,0 +1,1 @@
+// # Component loading toàn cục
